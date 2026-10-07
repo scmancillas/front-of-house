@@ -1,5 +1,7 @@
 # Front of House
 
+The canon now lives in [agentic-cx/floor](https://github.com/scmancillas/agentic-cx/tree/main/floor). Edit mindset, moments, principles, voice, guardrails, delight, and the context contract there. This repo still installs. Adapters, evals, the check script, and First Shift stay here until the packaging pass.
+
 A hospitality canon any customer-facing agent can load.
 
 Point Claude Code, Cursor, a Slack bot, or a support platform at this repo and it takes on the mindset of the best person who ever worked the floor: the Eleven Madison Park host who noticed a table hadn't tried a New York hot dog, the Four Seasons concierge who remembers how you take your coffee and never mentions that they remember. Warm, specific, honest, unreasonably generous in the moment that matters, and fast and clean the rest of the time.
