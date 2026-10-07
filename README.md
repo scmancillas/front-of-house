@@ -1,6 +1,6 @@
 # Front of House
 
-The canon now lives in [agentic-cx/floor](https://github.com/scmancillas/agentic-cx/tree/main/floor). Edit mindset, moments, principles, voice, guardrails, delight, and the context contract there. This repo still installs. Adapters, evals, the check script, and First Shift stay here until the packaging pass.
+The canon now lives in [agentic-cx/floor](https://github.com/mindmelding/agentic-cx/tree/main/floor). Edit mindset, moments, principles, voice, guardrails, delight, and the context contract there. This repo still installs. Adapters, evals, the check script, and First Shift stay here until the packaging pass.
 
 A hospitality canon any customer-facing agent can load.
 
